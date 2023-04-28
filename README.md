@@ -10,7 +10,7 @@ theme from light to dark.
 Developed by me: a statistics section that shows the financial situation taking
 into account the month and year.
 
-## Installation
+## ⚙️ Installation
 
 1. Make sure you have an LTS version of Node.js installed on your computer.
 
@@ -28,11 +28,19 @@ npm install
 
 ### Development
 
-Main stack of technologies: React, Redux.
+Main stack of technologies: `React`, `Redux`.
 
-Additional tools and libraries: styled components, formik, axios.
+Additional tools and libraries: `styled components`, `formik`, `axios`.
 
-### Authors
+### 🔗 References
+
+[Layout](https://www.figma.com/file/BmrgWszZaCrrxZBMJUMAhS/WALLET?type=design&node-id=0-1&t=fm1jD050HoE3OIjZ-0)
+
+[Technical task](https://docs.google.com/spreadsheets/d/1AlgSOhgw02taZXpVnjjzJmkmee-nqaPP-D8yuzENLos/edit#gid=0)
+
+[API](https://wallet.goit.ua/docs/)
+
+### 👩‍💻 Authors
 
 - [Dasha Yarkovska](https://github.com/daryark) - Team Lead
 - [Iryna Tyshchuk](https://github.com/Iryna-Tyshchuk) - Scrum Master
